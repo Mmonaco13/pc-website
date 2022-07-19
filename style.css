@@ -1,0 +1,86 @@
+.logo {
+  width: 50%;
+}
+
+.jumbotron {
+  background-size: cover;
+  min-height: 60vh;
+  color:white;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, .2);
+}
+
+.head-info {
+  margin: auto;
+}
+
+h3 {
+  color:#BF0000;
+  font-size: xx-large;
+}
+
+h4 {
+  color:#BF0000;
+}
+
+p {
+  font-size: large;
+  color:navy;
+}
+
+.container-fluid{
+  padding: 60px;
+}
+
+.row {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.col-sm-4 {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.bg-grey {
+  background-color: #f2f2f2;
+}
+
+div.polaroid {
+  width: 60%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: min-content;
+}
+
+div.polaroid-container {
+  font-family: cursive;
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.sign {
+  background-size: cover;
+  width: 100%;
+}
+
+.carousel-inner img {
+  margin: auto;
+}
+
+.carousel button {
+  height: 50%;
+  margin-top: 5%;;
+  background-color: #BF0000;
+}
+
+.fa {
+  margin-top: 3%;
+  margin-bottom: 5%;
+  font-size: 5vw;
+  text-decoration: none;
+  color: navy;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
